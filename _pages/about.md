@@ -20,7 +20,7 @@ Recent News
 
 Publications
 ======
-* *Extending Browser Extension Fingerprinting to Mobile Devices* [[pdf]](https://briankim113.github.io/files/wpes23.pdf) [[code]](https://github.com/briankim113/WPES2023-Artifact)
+* *Extending Browser Extension Fingerprinting to Mobile Devices* [[pdf]](https://briankim113.github.io/files/wpes23.pdf) [[code]](https://github.com/briankim113/WPES2023-Artifact) [[slides]](https://briankim113.github.io/files/wpes23-slides.pdf)
 <br> Brian Hyeongseok Kim, Shujaat Mirza, and Christina Pöpper. In the 22nd Workshop on Privacy in the Electronic Society (WPES), Copenhagen, Denmark, 2023.
 
 Personal
