@@ -10,9 +10,9 @@ redirect_from:
 
 About
 ======
-I am a second-year Ph.D. student in Computer Science at the University of Southern California, where I am advised by [Chao Wang](https://sites.usc.edu/chaowang/). My current research is motivated by my desire to understand software behaviors. More specifically, I am interested in developing software engineering techniques to test and verify if a machine learning model behaves in some desired manner (i.e., robust, fair).
+I am a second-year Ph.D. student in Computer Science at the University of Southern California (USC), where I am advised by [Chao Wang](https://sites.usc.edu/chaowang/). My current research is motivated by my desire to understand *fairness in machine learning*. I am particularly interested in developing diverse software engineering methodologies to evaluate the fairness of neural networks, by testing and verifying their behavior across various fairness definitions and addressing any underlying uncertainties in their datasets.
 
-Prior to joining USC, I received my B.S. in Computer Science from New York University Abu Dhabi, where I was advised by [Christina Pöpper](https://poepper.net/). My prior work has been in security and privacy in the domain of mobile browsers.
+Prior to joining USC, I received my B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I was advised by [Christina Pöpper](https://poepper.net/).
 
 Recent News
 ======
