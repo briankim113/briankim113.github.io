@@ -86,7 +86,7 @@ author:
   location         : "Los Angeles, California"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=eVojdxgAAAAJ&gmla=AH70aAVNjMI4gbZVYuv4yNnenkS3bufxTjbYX8KvLGAds_6cYQaAouqEmHkY2-sNN3MTtSkY2pyHcTqdh3jsPg0JLiiewisC84WnPg"
   email            : "brian.hs.kim@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/briankim113/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
