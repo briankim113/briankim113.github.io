@@ -16,7 +16,8 @@ Prior to joining USC, I received my B.S. in Computer Science from New York Unive
 
 Recent News
 ======
-* *June 2024*: I will be attending the Programming Languages Mentoring Workshop at [PLDI 2024](https://pldi24.sigplan.org). See you (back) in Copenhagen, Denmark!
+* *July 2024*: I will be attending the Verification Mentoring Workshop (VMW) at [CAV 2024](https://i-cav.org/2024/). See you in Montreal, Canada!
+* *June 2024*: I will be attending the Programming Languages Mentoring Workshop (PLMW) at [PLDI 2024](https://pldi24.sigplan.org). See you (back) in Copenhagen, Denmark!
 * *May 2024*: I will be attending the [13th Summer School on Formal Techniques](https://fm.csl.sri.com/SSFT24/) (SSFT). See you in San Francisco, California!
 * *November 2023*: I will be attending [WPES 2023](https://www.wpes2023.conf.kth.se/) (co-located with ACM CCS) to present my work on mobile browser extension fingerprinting. See you in Copenhagen, Denmark!
 
