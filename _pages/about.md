@@ -24,7 +24,7 @@ Recent News
 
 Publications
 ======
-* *FairQuant: Verifying and Quantifying Fairness of Deep Neural Networks* [To Come]
+* *FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks* [To Come]
 <br> Brian Hyeongseok Kim, Jingbo Wang, and Chao Wang. In International Conference on Software Engineering (**ICSE**), Ottawa, Canada, 2025.
 * *Extending Browser Extension Fingerprinting to Mobile Devices* [[pdf]](https://briankim113.github.io/files/wpes23.pdf) [[code]](https://github.com/briankim113/WPES2023-Artifact) [[slides]](https://briankim113.github.io/files/wpes23-slides.pdf)
 <br> Brian Hyeongseok Kim, Shujaat Mirza, and Christina Pöpper. In the 22nd Workshop on Privacy in the Electronic Society (**WPES**), Copenhagen, Denmark, 2023.
