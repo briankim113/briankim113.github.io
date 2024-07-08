@@ -16,6 +16,7 @@ Prior to joining USC, I received my B.S. in Computer Science from New York Unive
 
 Recent News
 ======
+* *April 2025*: Our work on neural network verification of individual fairness has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). See you in Ottawa, Canada!
 * *July 2024*: I will be attending the Verification Mentoring Workshop (VMW) at [CAV 2024](https://i-cav.org/2024/). See you in Montreal, Canada!
 * *June 2024*: I will be attending the Programming Languages Mentoring Workshop (PLMW) at [PLDI 2024](https://pldi24.sigplan.org). See you (back) in Copenhagen, Denmark!
 * *May 2024*: I will be attending the [13th Summer School on Formal Techniques](https://fm.csl.sri.com/SSFT24/) (SSFT). See you in San Francisco, California!
@@ -23,8 +24,10 @@ Recent News
 
 Publications
 ======
+* *FairQuant: Verifying and Quantifying Fairness of Deep Neural Networks* [To Come]
+<br> Brian Hyeongseok Kim, Jingbo Wang, and Chao Wang. In International Conference on Software Engineering (**ICSE**), Ottawa, Canada, 2025.
 * *Extending Browser Extension Fingerprinting to Mobile Devices* [[pdf]](https://briankim113.github.io/files/wpes23.pdf) [[code]](https://github.com/briankim113/WPES2023-Artifact) [[slides]](https://briankim113.github.io/files/wpes23-slides.pdf)
-<br> Brian Hyeongseok Kim, Shujaat Mirza, and Christina Pöpper. In the 22nd Workshop on Privacy in the Electronic Society (WPES), Copenhagen, Denmark, 2023.
+<br> Brian Hyeongseok Kim, Shujaat Mirza, and Christina Pöpper. In the 22nd Workshop on Privacy in the Electronic Society (**WPES**), Copenhagen, Denmark, 2023.
 
 Personal
 ======
