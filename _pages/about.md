@@ -10,17 +10,17 @@ redirect_from:
 
 About
 ======
-I am a second-year Ph.D. student in Computer Science at the University of Southern California (USC), where I am advised by [Chao Wang](https://sites.usc.edu/chaowang/). My current research is motivated by my desire to understand *fairness in machine learning*. I am particularly interested in developing diverse software engineering methodologies to evaluate the fairness of neural networks, by testing and verifying their behavior across various fairness definitions and addressing any underlying uncertainties in their datasets.
+I am a third-year Ph.D. student in Computer Science at the University of Southern California (USC), where I am advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/). My current research is motivated by my desire to understand *fairness in machine learning*. I am particularly interested in developing diverse software engineering methodologies to evaluate social fairness of neural networks, by testing and verifying their behavior across various fairness definitions and addressing any underlying uncertainties in their datasets.
 
-Prior to joining USC, I received my B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I was advised by [Christina Pöpper](https://poepper.net/).
+Prior to joining USC, I received my B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I was advised by [Prof. Christina Pöpper](https://poepper.net/).
 
 Recent News
 ======
-* *April 2025*: Our work on neural network verification of individual fairness has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). See you in Ottawa, Canada!
-* *July 2024*: I will be attending the Verification Mentoring Workshop (VMW) at [CAV 2024](https://i-cav.org/2024/). See you in Montreal, Canada!
-* *June 2024*: I will be attending the Programming Languages Mentoring Workshop (PLMW) at [PLDI 2024](https://pldi24.sigplan.org). See you (back) in Copenhagen, Denmark!
-* *May 2024*: I will be attending the [13th Summer School on Formal Techniques](https://fm.csl.sri.com/SSFT24/) (SSFT). See you in San Francisco, California!
-* *November 2023*: I will be attending [WPES 2023](https://www.wpes2023.conf.kth.se/) (co-located with ACM CCS) to present my work on mobile browser extension fingerprinting. See you in Copenhagen, Denmark!
+* *July 2024*: Our work on neural network verification of individual fairness has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). See you in Ottawa, Canada!
+* *May 2024*: I will be attending the Verification Mentoring Workshop (VMW) at [CAV 2024](https://i-cav.org/2024/) in July. See you in Montreal, Canada!
+* *April 2024*: I will be attending the Programming Languages Mentoring Workshop (PLMW) at [PLDI 2024](https://pldi24.sigplan.org) in June. See you (back) in Copenhagen, Denmark!
+* *April 2024*: I will be attending the [13th Summer School on Formal Techniques](https://fm.csl.sri.com/SSFT24/) (SSFT) in May. See you in San Francisco, California!
+* *September 2023*: I will be presenting my work on mobile browser extension fingerprinting at [WPES 2023](https://www.wpes2023.conf.kth.se/), co-located with ACM CCS, in November. See you in Copenhagen, Denmark!
 
 Publications
 ======
