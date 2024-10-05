@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am a third-year Ph.D. student in Computer Science at the University of Southern California (USC), where I am advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/). My current research is motivated by my desire to understand *fairness in machine learning*. I am particularly interested in developing diverse software engineering methodologies to evaluate social fairness of neural networks, by testing and verifying their behavior across various fairness definitions and addressing any underlying uncertainties in their datasets.
+I am a third-year Ph.D. student in Computer Science at the University of Southern California (USC), where I am advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/). My current research is driven by a deep interest in evaluating **fairness in artificial intelligence (AI) and machine learning (ML)**. I focus on applying formal methods and software engineering techniques to assess the fairness of neural networks and large language models (LLMs). My work emphasizes their application in critical sectors such as law, finance, and healthcare, ensuring that these technologies function equitably in real-world scenarios.
 
 Prior to joining USC, I received my B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I was advised by [Prof. Christina Pöpper](https://poepper.net/).
 
