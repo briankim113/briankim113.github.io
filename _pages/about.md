@@ -14,6 +14,9 @@ I am a third-year Ph.D. student in Computer Science at the University of Souther
 
 Prior to joining USC, I received my B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I was advised by [Prof. Christina Pöpper](https://poepper.net/).
 
+You can find a comprehensive overview of my experiences in my [CV](https://drive.google.com/file/d/1vYMhmuqpDhews9zwUTwmF_xekgqTDyQt/view?usp=share_link).
+
+
 Recent News
 ======
 * *July 2024*: Our work on neural network verification of individual fairness has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). See you in Ottawa, Canada!
