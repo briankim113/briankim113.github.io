@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am a third-year Ph.D. student in Computer Science at the University of Southern California (USC), where I am advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/).
+I am a third-year Ph.D. candidate in Computer Science at the University of Southern California (USC), where I am advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/).
 My research focuses on **verification and analysis** of critical software components to evaluate complex hyperproperties, such as reliability, security, and fairness.
 I'm broadly interested in applying **formal methods and software engineering** techniques to systems from traditional program codes to emerging machine learning (ML) and artificial intelligence (AI) models.
 To do this, I leverage techniques such as abstract interpretation, SMT solving, symbolic analysis, and constraint logic programming.
@@ -22,6 +22,7 @@ You can find a comprehensive overview of my experiences in my [CV](https://drive
 
 Recent News
 ======
+* *December 2024*: I have passed my qualifying exam!
 * *July 2024*: Our work on neural network verification of individual fairness has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). See you in Ottawa, Canada!
 * *May 2024*: I will be attending the Verification Mentoring Workshop (VMW) at [CAV 2024](https://i-cav.org/2024/) in July. See you in Montreal, Canada!
 * *April 2024*: I will be attending the Programming Languages Mentoring Workshop (PLMW) at [PLDI 2024](https://pldi24.sigplan.org) in June. See you (back) in Copenhagen, Denmark!
