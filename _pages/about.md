@@ -22,13 +22,14 @@ You can find a comprehensive overview of my experiences in my [CV](https://drive
 
 Recent News
 ======
-* *January 2025*: Our work on LLMs for mental health diagnosis has been accepted to [GenAI4Health](https://sites.google.com/view/genai4health-aaai-2025/home), a [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) workshop. See you in Philadelphia, USA!
-* *December 2024*: I have passed my qualifying exam!
-* *July 2024*: Our work on neural network verification of individual fairness has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). See you in Ottawa, Canada!
-* *May 2024*: I will be attending the Verification Mentoring Workshop (VMW) at [CAV 2024](https://i-cav.org/2024/) in July. See you in Montreal, Canada!
-* *April 2024*: I will be attending the Programming Languages Mentoring Workshop (PLMW) at [PLDI 2024](https://pldi24.sigplan.org) in June. See you (back) in Copenhagen, Denmark!
-* *April 2024*: I will be attending the [13th Summer School on Formal Techniques](https://fm.csl.sri.com/SSFT24/) (SSFT) in May. See you in San Francisco, California!
-* *September 2023*: Our work on mobile browser extension fingerprinting has been accepted to [WPES](https://www.wpes2023.conf.kth.se/), a [CCS 2023](https://www.sigsac.org/ccs/CCS2023/) workshop. See you in Copenhagen, Denmark!
+* *04/2025*: I was awarded a Best Reviewer Award for AISTATS 2025!
+* *01/2025*: Our work on LLMs for mental health diagnosis has been accepted to [GenAI4Health](https://sites.google.com/view/genai4health-aaai-2025/home), a [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) workshop. See you in Philadelphia, USA!
+* *12/2024*: I have passed my qualifying exam!
+* *07/2024*: Our work on neural network verification of individual fairness has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). See you in Ottawa, Canada!
+* *05/2024*: I will be attending the Verification Mentoring Workshop (VMW) at [CAV 2024](https://i-cav.org/2024/) in July. See you in Montreal, Canada!
+* *04/2024*: I will be attending the Programming Languages Mentoring Workshop (PLMW) at [PLDI 2024](https://pldi24.sigplan.org) in June. See you (back) in Copenhagen, Denmark!
+* *04/2024*: I will be attending the [13th Summer School on Formal Techniques](https://fm.csl.sri.com/SSFT24/) (SSFT) in May. See you in San Francisco, California!
+* *09/2023*: Our work on mobile browser extension fingerprinting has been accepted to [WPES](https://www.wpes2023.conf.kth.se/), a [CCS 2023](https://www.sigsac.org/ccs/CCS2023/) workshop. See you in Copenhagen, Denmark!
 
 Publications
 ======
