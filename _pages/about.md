@@ -33,11 +33,11 @@ Recent News
 
 Publications
 ======
-* *FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks* [[paper]](https://briankim113.github.io/files/icse25-paper.pdf) [[arXiv]](https://arxiv.org/abs/2409.03220) [[code]](https://github.com/briankim113/FairQuant-Artifact) [[slides]](https://briankim113.github.io/files/icse25-slides.pdf)
+* *FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks* [[paper]](https://briankim113.github.io/files/icse25-paper.pdf) [[proceedings]](https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00016) [[arXiv]](https://arxiv.org/abs/2409.03220) [[code]](https://github.com/briankim113/FairQuant-Artifact) [[slides]](https://briankim113.github.io/files/icse25-slides.pdf)
 <br> **Brian Hyeongseok Kim**, Jingbo Wang, and Chao Wang. The IEEE/ACM International Conference on Software Engineering (**ICSE**), Ottawa, Canada, 2025.
-* *Large Language Models for Interpretable Mental Health Diagnosis* [[paper]](https://arxiv.org/abs/2501.07653) [[poster]](https://briankim113.github.io/files/genai4health25-poster.pdf)
+* *Large Language Models for Interpretable Mental Health Diagnosis* [[OpenReview]](https://openreview.net/forum?id=L5iBC2En9N) [[arXiv]](https://arxiv.org/abs/2501.07653) [[poster]](https://briankim113.github.io/files/genai4health25-poster.pdf)
 <br> **Brian Hyeongseok Kim** and Chao Wang. Workshop on Large Language Models and Generative AI for Health at the AAAI Conference on Artificial Intelligence (**AAAI**), Philadelphia, USA, 2025.
-* *Extending Browser Extension Fingerprinting to Mobile Devices* [[paper]](https://dl.acm.org/doi/abs/10.1145/3603216.3624955) [[code]](https://github.com/briankim113/WPES2023-Artifact) [[slides]](https://briankim113.github.io/files/wpes23-slides.pdf)
+* *Extending Browser Extension Fingerprinting to Mobile Devices* [[proceedings]](https://dl.acm.org/doi/abs/10.1145/3603216.3624955) [[code]](https://github.com/briankim113/WPES2023-Artifact) [[slides]](https://briankim113.github.io/files/wpes23-slides.pdf)
 <br> **Brian Hyeongseok Kim**, Shujaat Mirza, and Christina Pöpper. Workshop on Privacy in the Electronic Society at the ACM Conference on Computer and Communications Security (**CCS**), Copenhagen, Denmark, 2023.
 
 Personal
