@@ -33,7 +33,7 @@ Recent News
 
 Publications
 ======
-* *FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks* [[paper]](https://arxiv.org/abs/2409.03220) [[code]](https://github.com/briankim113/FairQuant-Artifact) [[slides]]()
+* *FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks* [[paper]](https://briankim113.github.io/files/icse25-paper.pdf) [[arXiv]](https://arxiv.org/abs/2409.03220) [[code]](https://github.com/briankim113/FairQuant-Artifact) [[slides]](https://briankim113.github.io/files/icse25-slides.pdf)
 <br> **Brian Hyeongseok Kim**, Jingbo Wang, and Chao Wang. The IEEE/ACM International Conference on Software Engineering (**ICSE**), Ottawa, Canada, 2025.
 * *Large Language Models for Interpretable Mental Health Diagnosis* [[paper]](https://arxiv.org/abs/2501.07653) [[poster]](https://briankim113.github.io/files/genai4health25-poster.pdf)
 <br> **Brian Hyeongseok Kim** and Chao Wang. Workshop on Large Language Models and Generative AI for Health at the AAAI Conference on Artificial Intelligence (**AAAI**), Philadelphia, USA, 2025.
