@@ -17,7 +17,7 @@ To do this, I leverage techniques such as abstract interpretation, SMT solving, 
 
 Prior to joining USC, I received my B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I worked on browser security under [Prof. Christina Pöpper](https://poepper.net/).
 
-You can find a comprehensive overview of my experiences in my [CV](https://drive.google.com/file/d/1vYMhmuqpDhews9zwUTwmF_xekgqTDyQt/view?usp=share_link).
+You can find a comprehensive overview of my experiences in my [CV](https://drive.google.com/file/d/1uho26OviEkv1iJdpalp8fV89eQ4jwd6V/view?usp=sharing).
 
 
 Recent News
