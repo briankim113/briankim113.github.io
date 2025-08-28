@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am a third-year Ph.D. candidate in Computer Science at the University of Southern California (USC), where I am advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/).
+I am a 4th year Ph.D. candidate in Computer Science at the University of Southern California (USC), where I am advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/).
 My research focuses on **verification and analysis** of critical software components to evaluate complex hyperproperties, such as reliability, security, and fairness.
 I'm broadly interested in applying **formal methods and software engineering** techniques to systems from traditional program codes to emerging machine learning (ML) and artificial intelligence (AI) models.
 To do this, I leverage techniques such as abstract interpretation, SMT solving, symbolic analysis, and constraint logic programming.
@@ -22,6 +22,8 @@ You can find a comprehensive overview of my experiences in my [CV](https://drive
 
 Recent News
 ======
+* *08/2025*: Our work on analyzing LLM failures in abstract interpretation reasoning has been accepted to [LMPL](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025), a [SPLASH 2025](https://conf.researchr.org/home/icfp-splash-2025) workshop!
+* *05/2025*: I am working as an Applied Scientist Intern with the AWS Provable Security & Automation team for the summer in New York City, USA!
 * *04/2025*: I was awarded a Best Reviewer Award for AISTATS 2025!
 * *01/2025*: Our work on LLMs for mental health diagnosis has been accepted to [GenAI4Health](https://sites.google.com/view/genai4health-aaai-2025/home), a [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) workshop. See you in Philadelphia, USA!
 * *12/2024*: I have passed my qualifying exam!
