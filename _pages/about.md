@@ -11,13 +11,13 @@ redirect_from:
 About
 ======
 I am a 4th year Ph.D. candidate in Computer Science at the University of Southern California (USC), where I am advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/).
-My research focuses on **verification and analysis** of critical software components to evaluate complex hyperproperties, such as reliability, security, and fairness.
-I'm broadly interested in applying **formal methods and software engineering** techniques to systems from traditional program codes to emerging machine learning (ML) and artificial intelligence (AI) models.
-To do this, I leverage techniques such as abstract interpretation, SMT solving, symbolic analysis, and constraint logic programming.
+My research lies at the intersection of **artificial intelligence (AI) and software engineering (SE)**.  
+Specifically, I work on both *SE for AI* -- evaluating and verifying AI systems for reliability and fairness -- and *AI for SE* -- leveraging AI and large language models (LLMs) to improve program analysis and verification.
+I integrate advanced AI techniques with classic SE methods such as SMT solving, symbolic execution, abstract interpretation, and logic programming.
 
 Prior to joining USC, I received my B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I worked on browser security under [Prof. Christina Pöpper](https://poepper.net/).
 
-You can find a comprehensive overview of my experiences in my [CV](https://drive.google.com/file/d/1uho26OviEkv1iJdpalp8fV89eQ4jwd6V/view?usp=sharing).
+For more information, please refer to my [CV](https://drive.google.com/file/d/1bTXSlLyfK77NUlNFE2BHQ3DdVoqIlE4C/view?usp=sharing).
 
 
 Recent News
@@ -47,4 +47,4 @@ Personal
 1. I am actively running [a book review / reflection blog](https://brianreadsbooks.wordpress.com/). Let me know if you have any book recommendations.
 2. I am a member of the [Heart of Los Angeles Eisner Intergenerational Orchestra](https://www.holaio.org/), where I play the clarinet. Please join us if you are a music enthusiast based in LA!
 3. I have lived in 6 different countries and have documented my past experiences [here](https://briankim113.wixsite.com/ciao-italia) and [there](https://briankim113.wixsite.com/nyuad).
-4. I am learning Spanish and Tagalog. Please help me practice!
+4. I am learning Spanish and Tagalog. Help me practice, por favor / pakiusap!
