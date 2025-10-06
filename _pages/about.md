@@ -11,8 +11,7 @@ redirect_from:
 About
 ======
 I am a 4th year Ph.D. candidate in Computer Science at the University of Southern California (USC), where I am advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/).
-My research lies at the intersection of **artificial intelligence (AI) and software engineering (SE)**.  
-Specifically, I work on both *SE for AI* -- evaluating and verifying AI systems for reliability and fairness -- and *AI for SE* -- leveraging AI and large language models (LLMs) to improve program analysis and verification.
+My interests lie at the intersection of **artificial intelligence (AI) and software engineering (SE)**.  Specifically, my research spans both *SE for AI* -- evaluating and verifying AI systems for reliability and fairness -- and *AI for SE* -- leveraging AI and large language models (LLMs) to improve program analysis and verification.
 I integrate advanced AI techniques with classic SE methods such as SMT solving, symbolic execution, abstract interpretation, and logic programming.
 
 Prior to joining USC, I received my B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I worked on browser security under [Prof. Christina Pöpper](https://poepper.net/).
@@ -22,9 +21,12 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1b
 
 Recent News
 ======
+* *10/2025*: My projects during my internship at AWS have been honored with: 
+  * *Code Analysis for AI Agent Tools* has been accepted to the Trustworthy Agentic AI Workshop, part of AMLC 2025 ([Amazon Machine Learning Conference](https://www.amazon.science/videos-webinars/amazons-annual-machine-learning-conference-featured-presentations-from-thought-leaders-within-academia))!
+  * *Automated AI Guardrail Creation and Correction* has been published as part of the AWS Samples GitHub [repository](https://github.com/aws-samples/sample-denied-topics-bedrock-guardrails-generator-evaluator)!
 * *08/2025*: Our work on analyzing LLM failures in abstract interpretation reasoning has been accepted to [LMPL](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025), a [SPLASH 2025](https://conf.researchr.org/home/icfp-splash-2025) workshop!
 * *05/2025*: I am working as an Applied Scientist Intern with the AWS Provable Security & Automation team for the summer in New York City, USA!
-* *04/2025*: I was awarded a Best Reviewer Award for AISTATS 2025!
+* *04/2025*: I was awarded a Best Reviewer Award for [AISTATS 2025](https://aistats.org/aistats2025)!
 * *01/2025*: Our work on LLMs for mental health diagnosis has been accepted to [GenAI4Health](https://sites.google.com/view/genai4health-aaai-2025/home), a [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) workshop. See you in Philadelphia, USA!
 * *12/2024*: I have passed my qualifying exam!
 * *07/2024*: Our work on neural network verification of individual fairness has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). See you in Ottawa, Canada!
