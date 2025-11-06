@@ -21,8 +21,9 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1b
 
 Recent News
 ======
+* *11/2025*: Our work on counterfactual dataset generation to falsify individual fairness on neural networks has been accepted to [NLDL 2026](https://www.nldl.org/). See you in Tromsø, Norway!
 * *10/2025*: My projects during my internship at AWS have been honored with: 
-  * *Code Analysis for AI Agent Tools* has been accepted to the Trustworthy Agentic AI Workshop, part of AMLC 2025 ([Amazon Machine Learning Conference](https://www.amazon.science/videos-webinars/amazons-annual-machine-learning-conference-featured-presentations-from-thought-leaders-within-academia))!
+  * *Code Analysis for AI Agent Tools* has been accepted to the Trustworthy Agentic AI Workshop, part of [AMLC 2025](https://www.amazon.science/videos-webinars/amazons-annual-machine-learning-conference-featured-presentations-from-thought-leaders-within-academia)!
   * *Automated AI Guardrail Creation and Correction* has been published as part of the AWS Samples GitHub [repository](https://github.com/aws-samples/sample-denied-topics-bedrock-guardrails-generator-evaluator)!
 * *08/2025*: Our work on analyzing LLM failures in abstract interpretation reasoning has been accepted to [LMPL](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025), a [SPLASH 2025](https://conf.researchr.org/home/icfp-splash-2025) workshop!
 * *05/2025*: I am working as an Applied Scientist Intern with the AWS Provable Security & Automation team for the summer in New York City, USA!
@@ -37,10 +38,14 @@ Recent News
 
 Publications
 ======
+* *Analyzing Fairness of Neural Network Prediction via Counterfactual Dataset Generation*
+<br> **Brian Hyeongseok Kim**, Jacqueline Mitchell, and Chao Wang. Northern Lights Deep Learning Conference (**NLDL**), Tromsø, Norway, 2026.
 * *FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks* [[paper]](https://briankim113.github.io/files/icse25-paper.pdf) [[proceedings]](https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00016) [[arXiv]](https://arxiv.org/abs/2409.03220) [[code]](https://github.com/briankim113/FairQuant-Artifact) [[slides]](https://briankim113.github.io/files/icse25-slides.pdf)
 <br> **Brian Hyeongseok Kim**, Jingbo Wang, and Chao Wang. The IEEE/ACM International Conference on Software Engineering (**ICSE**), Ottawa, Canada, 2025.
 * *Large Language Models for Interpretable Mental Health Diagnosis* [[OpenReview]](https://openreview.net/forum?id=L5iBC2En9N) [[arXiv]](https://arxiv.org/abs/2501.07653) [[poster]](https://briankim113.github.io/files/genai4health25-poster.pdf)
 <br> **Brian Hyeongseok Kim** and Chao Wang. Workshop on Large Language Models and Generative AI for Health at the AAAI Conference on Artificial Intelligence (**AAAI**), Philadelphia, USA, 2025.
+* *Understanding Formal Reasoning Failures in LLMs as Abstract Interpreters* [[proceedings]](https://dl.acm.org/doi/10.1145/3759425.3763389)
+<br> Jacqueline Mitchell, **Brian Hyeongseok Kim**, Chenyu Zhou, and Chao Wang. Workshop on Language Models and Programming Languages at the ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (**SPLASH**), Singapore, 2025.
 * *Extending Browser Extension Fingerprinting to Mobile Devices* [[proceedings]](https://dl.acm.org/doi/abs/10.1145/3603216.3624955) [[code]](https://github.com/briankim113/WPES2023-Artifact) [[slides]](https://briankim113.github.io/files/wpes23-slides.pdf)
 <br> **Brian Hyeongseok Kim**, Shujaat Mirza, and Christina Pöpper. Workshop on Privacy in the Electronic Society at the ACM Conference on Computer and Communications Security (**CCS**), Copenhagen, Denmark, 2023.
 
