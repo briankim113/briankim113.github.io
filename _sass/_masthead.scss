@@ -50,4 +50,24 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  #theme-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5em;
+    color: var(--global-text-color);
+    transition: color 0.2s ease-in-out;
+    font-size: 1.2em;
+
+    &:hover {
+      color: var(--global-link-color);
+    }
+
+    &:focus {
+      outline: 2px solid var(--global-link-color);
+      outline-offset: 2px;
+      border-radius: 4px;
+    }
+  }
 }
