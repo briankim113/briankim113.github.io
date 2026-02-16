@@ -43,7 +43,12 @@ Recent News
 
 Publications
 ======
-* *Analyzing Fairness of Neural Network Prediction via Counterfactual Dataset Generation* [[OpenReview]](https://openreview.net/forum?id=gVdQBlZ0Cj) [[arXiv]](https://arxiv.org/abs/2602.10457) [[code]](https://github.com/briankim113/CFD-Artifact) [[slides]](https://briankim113.github.io/files/nldl26-slides.pdf) [[poster]](https://briankim113.github.io/files/nldl26-poster.pdf)
+* *Analyzing Fairness of Neural Network Prediction via Counterfactual Dataset Generation*
+[[proceedings]](https://proceedings.mlr.press/v307/kim26a.html)
+[[arXiv]](https://arxiv.org/abs/2602.10457) 
+[[code]](https://github.com/briankim113/CFD-Artifact) 
+[[slides]](https://briankim113.github.io/files/nldl26-slides.pdf) 
+[[poster]](https://briankim113.github.io/files/nldl26-poster.pdf)
 <br> **Brian Hyeongseok Kim**, Jacqueline Mitchell, and Chao Wang. Northern Lights Deep Learning Conference (**NLDL**), Tromsø, Norway, 2026.
 * *FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks* [[proceedings]](https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00016) [[arXiv]](https://arxiv.org/abs/2409.03220) [[code]](https://github.com/briankim113/FairQuant-Artifact) [[slides]](https://briankim113.github.io/files/icse25-slides.pdf)
 <br> **Brian Hyeongseok Kim**, Jingbo Wang, and Chao Wang. The IEEE/ACM International Conference on Software Engineering (**ICSE**), Ottawa, Canada, 2025.
