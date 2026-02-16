@@ -10,17 +10,21 @@ redirect_from:
 
 About
 ======
-I am a 4th year Ph.D. candidate in Computer Science at the University of Southern California (USC), where I am advised by [Prof. Chao Wang](https://sites.usc.edu/chaowang/).
-My interests lie at the intersection of **artificial intelligence (AI) and software engineering (SE)**.  Specifically, my research spans both *SE for AI* -- evaluating and verifying AI systems for reliability and fairness -- and *AI for SE* -- leveraging AI and large language models (LLMs) to improve program analysis and verification.
-I integrate advanced AI techniques with classic SE methods such as SMT solving, symbolic execution, abstract interpretation, and logic programming.
+I am a 4th year Ph.D. candidate in Computer Science at the University of Southern California (USC), advised by [Dr. Chao Wang](https://sites.usc.edu/chaowang/).
 
-Prior to joining USC, I received my B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I worked on browser security under [Prof. Christina Pöpper](https://poepper.net/).
+My research lies at the intersection of **Software Engineering (SE) and Artificial Intelligence (AI)**. 
+My work spans both *SE for AI* -- evaluating and verifying AI systems for reliability and fairness -- and *AI for SE* -- leveraging AI and LLMs to improve program analysis and verification.
+Please refer to my [CV](https://drive.google.com/file/d/1bTXSlLyfK77NUlNFE2BHQ3DdVoqIlE4C/view?usp=sharing) for more information.
 
-For more information, please refer to my [CV](https://drive.google.com/file/d/1bTXSlLyfK77NUlNFE2BHQ3DdVoqIlE4C/view?usp=sharing).
+Prior to joining USC, I graduated cum laude with a B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I worked on browser security under [Dr. Christina Pöpper](https://poepper.net/).
+Outside of work, I enjoy reading, clarinet, and tennis!
+
+
 
 
 Recent News
 ======
+* *02/2026*: I am serving as Publicity Chair for [HARMONY 2026](https://conf.researchr.org/home/harmony-2026), an IEEE/ACM CHASE 2026 workshop around AI and mental health.  Our CFP is open, so we welcome all submissions, from both computing and non-computing experts!
 * *02/2026*: I have been selected to give a talk about my work on LLMs for mental health diagnosis at [SoCalPLS 2026](https://socalpls.github.io/), hosted right here at USC in Los Angeles!
 * *11/2025*: Our work on counterfactual dataset generation to falsify individual fairness on neural networks has been accepted to [NLDL 2026](https://www.nldl.org/). See you in Tromsø, Norway!
 * *10/2025*: My projects during my internship at AWS have been honored with: 
