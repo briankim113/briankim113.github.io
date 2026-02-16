@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brian Hyeongseok Kim"
 title_separator          : "-"
 name                     : &name "Brian Hyeongseok Kim"
-description              : &description "CS PhD Student at USC"
+description              : &description "CS PhD Candidate at USC | Researcher in AI and Software Engineering"
 url                      : https://briankim113.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "briankim113/briankim113.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Brian Hyeongseok Kim"
   avatar           : "profile.png"
-  bio              : "CS Ph.D. Candidate at USC"
-  location         : "Los Angeles, California"
+  bio              : "AI/SE PhD Candidate at the University of Southern California"
+  location         : "Los Angeles, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eVojdxgAAAAJ&hl=en&oi=ao"
