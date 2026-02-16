@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 {% for item in site.data.news %}
-## {{ item.date }} — {{ item.title }}
+<h2>{{ item.date }} — {{ item.title }}</h2>
 
 {{ item.content | markdownify }}
 
----
+<hr />
 {% endfor %}

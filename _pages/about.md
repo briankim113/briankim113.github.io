@@ -23,7 +23,7 @@ Outside of work, I enjoy reading, clarinet, and tennis!
 Recent News
 ======
 {% for item in site.data.news limit:5 %}
-* *{{ item.date }}*: {{ item.title }} — {{ item.content | markdownify | strip_html | truncatewords: 25 }}
+* *{{ item.date }}*: {{ item.title }} — {{ item.content | markdownify }}
 {% endfor %}
 
 [View all news →](/news/)
