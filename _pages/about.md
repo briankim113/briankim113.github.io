@@ -43,21 +43,15 @@ Recent News
 
 Publications
 ======
-* *Analyzing Fairness of Neural Network Prediction via Counterfactual Dataset Generation*
-[[proceedings]](https://proceedings.mlr.press/v307/kim26a.html)
-[[arXiv]](https://arxiv.org/abs/2602.10457) 
-[[code]](https://github.com/briankim113/CFD-Artifact) 
-[[slides]](https://briankim113.github.io/files/nldl26-slides.pdf) 
-[[poster]](https://briankim113.github.io/files/nldl26-poster.pdf)
-<br> **Brian Hyeongseok Kim**, Jacqueline Mitchell, and Chao Wang. Northern Lights Deep Learning Conference (**NLDL**), Tromsø, Norway, 2026.
-* *FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks* [[proceedings]](https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00016) [[arXiv]](https://arxiv.org/abs/2409.03220) [[code]](https://github.com/briankim113/FairQuant-Artifact) [[slides]](https://briankim113.github.io/files/icse25-slides.pdf)
-<br> **Brian Hyeongseok Kim**, Jingbo Wang, and Chao Wang. The IEEE/ACM International Conference on Software Engineering (**ICSE**), Ottawa, Canada, 2025.
-* *Large Language Models for Interpretable Mental Health Diagnosis* [[OpenReview]](https://openreview.net/forum?id=L5iBC2En9N) [[arXiv]](https://arxiv.org/abs/2501.07653) [[poster]](https://briankim113.github.io/files/genai4health25-poster.pdf)
-<br> **Brian Hyeongseok Kim** and Chao Wang. Workshop on Large Language Models and Generative AI for Health at the AAAI Conference on Artificial Intelligence (**AAAI**), Philadelphia, USA, 2025.
-* *Understanding Formal Reasoning Failures in LLMs as Abstract Interpreters* [[proceedings]](https://dl.acm.org/doi/10.1145/3759425.3763389) [[arXiv]](https://arxiv.org/abs/2503.12686)
-<br> Jacqueline L. Mitchell, **Brian Hyeongseok Kim**, Chenyu Zhou, and Chao Wang. Workshop on Language Models and Programming Languages at the ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (**SPLASH**), Singapore, 2025.
-* *Extending Browser Extension Fingerprinting to Mobile Devices* [[proceedings]](https://dl.acm.org/doi/abs/10.1145/3603216.3624955) [[code]](https://github.com/briankim113/WPES2023-Artifact) [[slides]](https://briankim113.github.io/files/wpes23-slides.pdf)
-<br> **Brian Hyeongseok Kim**, Shujaat Mirza, and Christina Pöpper. Workshop on Privacy in the Electronic Society at the ACM Conference on Computer and Communications Security (**CCS**), Copenhagen, Denmark, 2023.
+* **Analyzing Fairness of Neural Network Prediction via Counterfactual Dataset Generation**. *Brian Hyeongseok Kim*, Jacqueline L. Mitchell, and Chao Wang. **NLDL 2026**, Tromsø, Norway.
+
+* **FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks**. *Brian Hyeongseok Kim*, Jingbo Wang, and Chao Wang. **ICSE 2025**, Ottawa, Canada.
+
+* **Understanding Formal Reasoning Failures in LLMs as Abstract Interpreters**. Jacqueline L. Mitchell, *Brian Hyeongseok Kim*, Chenyu Zhou, and Chao Wang. **LMPL workshop @ SPLASH 2025**, Singapore.
+
+* **Large Language Models for Interpretable Mental Health Diagnosis**. *Brian Hyeongseok Kim* and Chao Wang. **GenAI4Health workshop @ AAAI 2025**, Philadelphia, USA.
+
+* **Extending Browser Extension Fingerprinting to Mobile Devices**. *Brian Hyeongseok Kim*, Shujaat Mirza, and Christina Pöpper. **WPES workshop @ CCS 2025**, Copenhagen, Denmark.
 
 Personal
 ======
