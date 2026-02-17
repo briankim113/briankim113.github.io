@@ -6,11 +6,19 @@
 
 - date: "02/2026"
   title: "Selected to Give Talk at SoCalPLS 2026"
-  content: "I have been selected to give a talk about my work on LLMs for mental health diagnosis at [SoCalPLS 2026](https://socalpls.github.io/), hosted right here at USC in Los Angeles, CA!"
+  content: "I have been selected to give a talk about my work on LLMs for mental health diagnosis at [SoCalPLS 2026](https://socalpls.github.io/), hosted right here at USC in Los Angeles, CA!  An important topic to me, which I'm excited to share with the PL community!"
+
+- date: "12/2025"
+  title: "Guest Lecture at CSU Long Beach"
+  content: "I had the pleasure of giving my first guest lecture at CSU Long Beach for Dr. Xin Qin's course! I talked about the field of machine learning verification and presented my work on fairness verification. I hope the students found it interesting :)"
 
 - date: "11/2025"
   title: "Paper Accepted to NLDL 2026"
   content: "Our work on counterfactual dataset generation to falsify individual fairness on neural networks has been accepted to [NLDL 2026](https://www.nldl.org/). See you in Tromsø, Norway!"
+
+- date: "10/2025"
+  title: "Invited to the 1st Meta PhD Forum"
+  content: "I was invited to join other PhD students and present my research at Meta's Menlo Park HQ for the inaugural Meta PhD Forum!"
 
 - date: "10/2025"
   title: "AWS Internship Projects Honored"
