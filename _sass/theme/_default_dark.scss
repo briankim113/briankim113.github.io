@@ -36,18 +36,112 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
 html[data-theme="dark"] {
-    --global-base-color                 : #{$primary-color};
-    --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$light-gray};
-    --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-dark};
-    --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #{$text};
+    background-color: $background;
+    color: $text;
+    
+    body {
+        background-color: $background;
+        color: $text;
+    }
+    
+    a {
+        color: $link;
+        
+        &:visited {
+            color: $link-light;
+        }
+        
+        &:hover {
+            color: $link-dark;
+        }
+    }
+    
+    .masthead {
+        background-color: mix(#000, $background, 20%);
+        border-bottom: 1px solid mix(#000, $background, 40%);
+        
+        a {
+            color: $text;
+        }
+    }
+    
+    .greedy-nav {
+        background: mix(#000, $background, 20%);
+        
+        a {
+            color: $text;
+            
+            &:hover {
+                color: $link;
+            }
+        }
+        
+        button {
+            color: $text;
+        }
+    }
+    
+    .page {
+        background-color: $background;
+    }
+    
+    .page__content {
+        color: $text;
+        
+        h1, h2, h3, h4, h5, h6 {
+            color: $text;
+        }
+        
+        p, li, td {
+            color: $text;
+        }
+    }
+    
+    .sidebar {
+        background-color: $background;
+        
+        .author__name {
+            color: $text;
+        }
+        
+        .author__bio {
+            color: mix(#fff, $text, 30%);
+        }
+    }
+    
+    .author__urls {
+        color: $text;
+        
+        li a {
+            color: $text;
+        }
+    }
+    
+    .page__footer {
+        background-color: mix(#000, $background, 30%);
+        color: $text;
+        
+        a {
+            color: $link;
+        }
+    }
+    
+    code {
+        background-color: mix(#000, $background, 30%);
+        color: mix(#fff, $text, 20%);
+    }
+    
+    pre {
+        background-color: mix(#000, $background, 30%);
+    }
+    
+    .archive__item-title {
+        color: $text;
+    }
+    
+    .archive__item-excerpt {
+        color: mix(#fff, $text, 30%);
+    }
     --global-masthead-link-color-hover  : #{$primary-color};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #f3f3f3;
