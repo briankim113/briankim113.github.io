@@ -2,6 +2,9 @@
 title: "Large Language Models for Interpretable Mental Health Diagnosis"
 collection: publications
 permalink: /publication/2025-03-04-aaai-genai4health25
+authors:
+  - "Brian Hyeongseok Kim"
+  - "Chao Wang"
 excerpt: "We propose a clinical decision-making support tool that integrates LLMs and constraint logic programming for interpretable mental health diagnosis."
 date: 2025-03-04
 venue: "Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health)"

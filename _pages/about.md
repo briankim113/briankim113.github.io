@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -29,17 +29,15 @@ Recent News
 [View all news →](/news/)
 
 
+
 Publications
 ======
-* **Analyzing Fairness of Neural Network Prediction via Counterfactual Dataset Generation**. *Brian Hyeongseok Kim*, Jacqueline L. Mitchell, and Chao Wang. **NLDL 2026**, Tromsø, Norway.
+{% assign pubs = site.publications | sort: 'date' | reverse %}
+{% for pub in pubs limit:5 %}
+* **{{ pub.title }}**{% if pub.authors %}: {% for a in pub.authors %}{% if forloop.first %}{% if a == site.author.name %}<em>{{ a }}</em>{% else %}{{ a }}{% endif %}{% elsif forloop.last %}{% if forloop.length > 2 %}, and {% else %} and {% endif %}{% if a == site.author.name %}<em>{{ a }}</em>{% else %}{{ a }}{% endif %}{% else %}, {% if a == site.author.name %}<em>{{ a }}</em>{% else %}{{ a }}{% endif %}{% endif %}{% endfor %}.{% endif %}{% if pub.venue %} <em>{{ pub.venue }}</em>{% endif %}, {{ pub.date | default: "1900-01-01" | date: "%Y" }}.
+{% endfor %}
 
-* **FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks**. *Brian Hyeongseok Kim*, Jingbo Wang, and Chao Wang. **ICSE 2025**, Ottawa, Canada.
-
-* **Understanding Formal Reasoning Failures in LLMs as Abstract Interpreters**. Jacqueline L. Mitchell, *Brian Hyeongseok Kim*, Chenyu Zhou, and Chao Wang. **LMPL workshop @ SPLASH 2025**, Singapore.
-
-* **Large Language Models for Interpretable Mental Health Diagnosis**. *Brian Hyeongseok Kim* and Chao Wang. **GenAI4Health workshop @ AAAI 2025**, Philadelphia, USA.
-
-* **Extending Browser Extension Fingerprinting to Mobile Devices**. *Brian Hyeongseok Kim*, Shujaat Mirza, and Christina Pöpper. **WPES workshop @ CCS 2025**, Copenhagen, Denmark.
+[View all publications →](/publications/)
 
 
 Personal
