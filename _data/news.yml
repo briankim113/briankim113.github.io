@@ -1,12 +1,16 @@
 # News items - ordered from most recent to oldest
 
+- date: "04/2026"
+  title: "Serving as Operations Team for SIGPLAN-M"
+  content: "I am serving as a Operations Team Member at [SIGPLAN-M](https://www.sigplan.org/LongTermMentoring/), which pairs up mentors and mentees in the PL community. Check it out!"
+
 - date: "02/2026"
   title: "Serving as Publicity Chair for HARMONY 2026"
   content: "I am serving as Publicity Chair for [HARMONY 2026](https://conf.researchr.org/home/harmony-2026), an IEEE/ACM CHASE 2026 workshop around AI and mental health. Our CFP is open, so we welcome all submissions, from both computing and non-computing experts!"
 
 - date: "02/2026"
   title: "Selected to Give Talk at SoCalPLS 2026"
-  content: "I have been selected to give a talk about my work on LLMs for mental health diagnosis at [SoCalPLS 2026](https://socalpls.github.io/), hosted right here at USC in Los Angeles, CA!  An important topic to me, which I'm excited to share with the PL community!"
+  content: "I have been selected to give a talk about my work on LLMs for mental health diagnosis at [SoCalPLS 2026](https://socalpls.github.io/), hosted right here at USC in Los Angeles, CA!  This is an important topic to me, so I'm extra excited to share with the PL community."
 
 - date: "12/2025"
   title: "Guest Lecture at CSU Long Beach"
