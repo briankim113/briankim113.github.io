@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am a 4th year Ph.D. candidate in Computer Science at the University of Southern California (USC), advised by [Dr. Chao Wang](https://sites.usc.edu/chaowang/).
+I am a 5th year Ph.D. candidate in Computer Science at the University of Southern California (USC), advised by [Dr. Chao Wang](https://sites.usc.edu/chaowang/).
 
 My research lies at the intersection of **Software Engineering (SE) and Artificial Intelligence (AI)**. 
 My work spans both *SE for AI* -- evaluating and verifying AI systems for reliability and fairness -- and *AI for SE* -- leveraging AI and LLMs to improve program analysis and verification.
@@ -43,6 +43,6 @@ Publications
 Personal
 ======
 1. I am actively running [a book review / reflection blog](https://brianreadsbooks.wordpress.com/). Let me know if you have any book recommendations.
-2. I am a member of the [Heart of Los Angeles Eisner Intergenerational Orchestra](https://www.holaio.org/), where I play the clarinet. Please join us if you are a music enthusiast based in LA!
-3. I have lived in 6 different countries and have documented my past experiences [here](https://briankim113.wixsite.com/ciao-italia) and [there](https://briankim113.wixsite.com/nyuad).
-4. I am learning Spanish and Tagalog. Help me practice, por favor / pakiusap!
+2. I have lived in 6 different countries and have documented my past experiences [here](https://briankim113.wixsite.com/nyuad) and [there](https://briankim113.wixsite.com/ciao-italia).
+3. I am learning Spanish and Tagalog. Help me practice, por favor / pakiusap!
+<!-- 4. I am a member of the [Heart of Los Angeles Eisner Intergenerational Orchestra](https://www.holaio.org/), where I play the clarinet. Please join us if you are a music enthusiast based in LA! -->
