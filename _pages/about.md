@@ -14,8 +14,9 @@ About
 I am a 5th year Ph.D. candidate in Computer Science at the University of Southern California (USC), advised by [Dr. Chao Wang](https://sites.usc.edu/chaowang/).
 
 My research lies at the intersection of **Software Engineering (SE) and Artificial Intelligence (AI)**. 
-My work spans both *SE for AI* -- evaluating and verifying AI systems for reliability and fairness -- and *AI for SE* -- leveraging AI and LLMs to improve program analysis and verification.
-Please refer to my [CV](https://drive.google.com/file/d/1bTXSlLyfK77NUlNFE2BHQ3DdVoqIlE4C/view?usp=sharing) for more information.
+My work spans both *SE for AI* -- developing verification-guided methods for building reliable and responsible AI systems -- and *AI for SE* -- leveraging AI and LLMs to improve program analysis and verification.
+My research is complemented by industry experience in AI agents, reliable AI, and systems infrastructure at Google, Meta, and Amazon.
+Please refer to my [industry CV](https://drive.google.com/file/d/1bTXSlLyfK77NUlNFE2BHQ3DdVoqIlE4C/view?usp=sharing) and [academic CV](https://drive.google.com/file/d/1XA_qF68uTDZro0UaNQKzFReW7bM9c8Dz/view?usp=sharing) for more information.
 
 Prior to joining USC, I graduated cum laude with a B.S. in Computer Science from New York University Abu Dhabi (NYUAD), where I worked on browser security under [Dr. Christina Pöpper](https://poepper.net/).
 Outside of work, I enjoy reading, clarinet, and tennis!
